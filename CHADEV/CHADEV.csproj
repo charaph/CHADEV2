@@ -190,6 +190,12 @@
     <Compile Include="XtraForm7.Designer.cs">
       <DependentUpon>XtraForm7.cs</DependentUpon>
     </Compile>
+    <Compile Include="XtraForm8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XtraForm8.Designer.cs">
+      <DependentUpon>XtraForm8.cs</DependentUpon>
+    </Compile>
     <Compile Include="XtraUserControl1.cs">
       <SubType>UserControl</SubType>
     </Compile>
