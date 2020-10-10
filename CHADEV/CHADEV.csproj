@@ -184,6 +184,12 @@
     <Compile Include="XtraForm6.Designer.cs">
       <DependentUpon>XtraForm6.cs</DependentUpon>
     </Compile>
+    <Compile Include="XtraForm7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XtraForm7.Designer.cs">
+      <DependentUpon>XtraForm7.cs</DependentUpon>
+    </Compile>
     <Compile Include="XtraForm8.cs">
       <SubType>Form</SubType>
     </Compile>
